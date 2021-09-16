@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar1prajapati
 - 👀 I’m interested in .net technologies
-- 🌱 I’m currently learning ...c# ,Linq, dot net core, Entity Framework
+- 🌱 I’m currently learning ...c# ,Linq, dot net core, Entity Framework, SQL Server, React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
